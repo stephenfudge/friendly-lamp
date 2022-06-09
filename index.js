@@ -33,6 +33,7 @@ const questions = [{
 }, {
     type: 'input',
     message: 'Provide some tests for your application',
+    default: 'npm run test',
     name: 'tests',
 }, {
     type: 'input',
