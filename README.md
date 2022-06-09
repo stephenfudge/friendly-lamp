@@ -1,25 +1,34 @@
+# friendly-lamp
 
-  # test
-  #Table of Contents
-  * [Installation](##installation)
-  * [Usage](##Usage)
-  * [License](##License)
-  * [Contributing](##contributing)
-  * [Tests](##tests)
-  * [Questions](##questions)
-  ## Installation
-  Please do the following to run the application: t
-  ## Usage
-  In order to use this app: t
-  ## License
- This project is licensed under the GPL license. <br />
-![GitHub License](https://img.shields.io/badge/License-GPL-blue.svg) <br />
-(https://www.gnu.org/licenses/gpl-3.0)
-  ## Contributing
-  Contributors: t
-  ## Tests
-  The following is needed to run the test: t
-  ## Questions
-  If you have any questions or issues with the application, please reach out to t with the information provided below: <br />
-  [t](https://github.com/t) <br />
-  t
+## README Generator - Challenge Assignment 9 Node.JS
+
+- *What was your motivation?*  I wanted to be able to create a README file through the terminal
+- *Why did you build this project?*  To have a README template
+- *What problem does it solve?*  It solves the problem of having your README files not be consistent or having the pertinent information in them.
+- *What did I learn?* I learned about packages and how to call them within the javascript to get the information and to write the README file. 
+
+
+
+## Installation
+
+*What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.*
+
+Download index.js, generateMarkdown.js and the package.json file, then from your terminal run 'npm i' to install the packages associated with this project.
+
+## Usage
+
+*Provide instructions and examples for use. Include screenshots as needed.*
+
+Once you have installed the associated packages, then from your terminal you will want to run 'node index.js' and answer the question prompts that appear to create the README file.
+
+
+
+Below is a screenshot of what the terminal should look like when the questions appear.  Within the utils folder there is also a created README that was created using this project with an example of a license.
+
+![alt text](assets/images//startpage.png)
+
+There is also a video attached (video)
+
+## Credits
+I used w3schools and MDN for help with the switch argument. I used https://www.npmjs.com/ for documentation on the packages so that I knew how to manipulate the data.  
+I used https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba for the license badges and links.
