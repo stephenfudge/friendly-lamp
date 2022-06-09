@@ -21,13 +21,11 @@ Download index.js, generateMarkdown.js and the package.json file, then from your
 
 Once you have installed the associated packages, then from your terminal you will want to run 'node index.js' and answer the question prompts that appear to create the README file.
 
-
-
 Below is a screenshot of what the terminal should look like when the questions appear.  Within the utils folder there is also a created README that was created using this project with an example of a license.
 
-![alt text](assets/images//startpage.png)
+![alt text](images//terminal.png)
 
-There is also a video attached (video)
+There is also a [Video Link](https://www.youtube.com/watch?v=ZLnv_ALpKfE)
 
 ## Credits
 I used w3schools and MDN for help with the switch argument. I used https://www.npmjs.com/ for documentation on the packages so that I knew how to manipulate the data.  
